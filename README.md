@@ -2,9 +2,9 @@
 - 👀 I’m interested in Computer Vision, Robotics
 - 🌱 I’m currently learning ROS2, Kotlin, and many other languages because CS is a continous learning process
 - 📫 How to reach me
-    EMAIL: rpunamiya6@gatech.edu
-    INSTAGRAM: @ryan.punamiya
-    DISCORD: PoggerMan#3890
+EMAIL: rpunamiya6@gatech.edu
+INSTAGRAM: @ryan.punamiya
+DISCORD: PoggerMan#3890
     
 
 <!---
