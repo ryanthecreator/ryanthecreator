@@ -4,7 +4,7 @@
 - 📫 How to reach me
 EMAIL: rpunamiya6@gatech.edu;
 INSTAGRAM: @ryan.punamiya;
-DISCORD: PoggerMan#3890
+DISCORD: @poggerman
     
 
 <!---
