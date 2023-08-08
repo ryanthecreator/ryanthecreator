@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanthecreator
 - 👀 I’m interested in Computer Vision, Robotics
-- 🌱 I’m currently learning ROS2, Kotlin, Pytorch and foraying into static site generators (I need a personal website)
+- 🌱 I find deep learning cool
 - 📫 How to reach me
 EMAIL: rpunamiya6@gatech.edu;
 INSTAGRAM: @ryan.punamiya;
