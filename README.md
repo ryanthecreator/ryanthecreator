@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryanthecreator
+- 👋 Hi, I’m @ryanthecreator, undergraduate student research @ RL2 Lab under Prof. Danfei Xu
 - 👀 I’m interested in Computer Vision, Robotics
 - 🌱 I find deep learning cool
 - 📫 How to reach me
